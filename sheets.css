@@ -1,0 +1,85 @@
+#intro
+{
+    background: linear-gradient( #f768b0 0%, #e19beb 50%, #96ebe5 100%);
+    text-align: center;
+}
+#about
+{
+    background-color: #f768b0;
+    text-align: center;
+}
+#favArtPiece
+{
+    background-color: #e19beb;
+    text-align: center;
+}
+#myWork
+{
+    background-color: rgb(189, 238, 247);
+    text-align: center;
+}
+#favArtists
+{
+    background-color: #96ebe5;
+    text-align: center;
+}
+#contact
+{
+    background: linear-gradient( #f768b0 0%, #e19beb 50%, #96ebe5 100%);
+    text-align: center;
+}
+p
+{
+font-size: 25px;
+}
+h1
+{
+    font-size: xx-large;
+}
+.hotbar
+{
+    list-style:none;
+    position:fixed;
+    z-index:2;
+    cursor:pointer;
+    top:0px;
+    font-size: 15;
+}
+li 
+{
+    float: right;
+    text-decoration: none;
+    
+}
+.class
+{
+display:table-cell;
+padding-top:30px;
+text-align: center;
+}
+  
+ a 
+{
+    display: block;
+    padding: 8px;
+    background-color: white;
+}
+#Twi
+{
+    border-radius: 10000px;
+}
+#art
+{
+    font-family: "Dancing Script" , cursive;
+}
+img{
+    width:750;
+}
+h2
+{
+    font-size: 40px;
+}
+h1
+{
+    font-size: 50px;
+}
